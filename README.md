@@ -7,7 +7,7 @@ The current manifestation of a DMP - a static document often created before a pr
 We still need a human-readable narrative, but there is now widespread recognition that, underneath, the DMP could have more thematic, machine-actionable richness with added value for all stakeholders: researchers, funders, repository managers, ICT providers, librarians, etc.
 
 <p align="center">
-	<img src="/assets/stakeholder_usecases.png" alt="Stakeholder Usecases"/>
+	<img src="{{ site.baseurl }}/assets/stakeholder_usecases.png" alt="Stakeholder Usecases"/>
 	<br>
 	<small>Use cases and stakeholders of an institutional, machine-actionable DMP support system.</small>
 </p>
@@ -20,7 +20,7 @@ If you are interested to find out more, please refer to [Further Readings](#furt
 Inspired by community ideas, we developed a set of semi-automated workflows that describe the process of data management planning from the perspective of a researcher at a research institution or university. Please find the description [**here**](http://rda-ws-tpdl2018.sysresearch.org/documents/2018-TPDL-Porto-Handout-BPMN.pdf).
 
 <p align="center">
-	<img src="/assets/workflows_overview.png" alt="Workflows Overview"/>
+	<img src="{{ site.baseurl }}/assets/workflows_overview.png" alt="Workflows Overview"/>
 	<br>
 	<small>Overview on semi-automated Data Management Planning Process</small>
 </p>
@@ -28,11 +28,11 @@ Inspired by community ideas, we developed a set of semi-automated workflows that
 ## Mockups
 Based on the [workflows](#workflows) we designed mockups of such a system. The mockups shall help the stakeholders to better imagine the system and provide valuable feedback that shapes the future development. The mockups are available in the following formats:
 - [Online, interactive Mockups](https://balsamiq.cloud/syaiodq/pmy3rqs) (can be commented)
-- [Mockups as pdf](/assets/mockups_researcher.pdf)
+- [Mockups as pdf]({{ site.baseurl }}/assets/mockups_researcher.pdf)
 
 <p align="center">
 	<a href="https://balsamiq.cloud/syaiodq/pmy3rqs">
-		<img src="/assets/dmap_home.png" width="600" alt="Researcher Mockup"/>
+		<img src="{{ site.baseurl }}/assets/dmap_home.png" width="600" alt="Researcher Mockup"/>
 	</a>
 	<br>
 	<em><small> Created with <a href="https://balsamiq.com">Balsamiq</a>.</small></em>
