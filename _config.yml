@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+markdown: kramdown
+title: Mockups
+description: Machine-actionable Data Management Planning Application
