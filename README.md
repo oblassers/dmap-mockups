@@ -1,7 +1,8 @@
 ## Introduction
-[Mockups](#mockups) [Contribute](#how-can-you-contribute)
+Currently we are designing a system to make research data management planning machine-actionable. This involves the automation of workflows and exchange among information systems and services. If you are interested in machine-actionable DMPs or are a stakeholder of research data management (e.g. researcher), feel welcome to [**try out our mockups**](#mockups) and [**give us feedback**](#how-can-you-contribute). Your help is very appreciated!
 
 ## Background
+Data management plans (DMPs) are documents accompanying research proposals and project outputs. They describe data and tools employed in scientific investigations, mostly in free-form text.
 The current manifestation of a DMP - a static document often created before a project begins - only contributes to the perception that DMPs are an annoying administrative exercise. What they really are - or at least should be - is an integral part of research practice, since today most research across all disciplines involves data, code, and other digital components.
 
 We still need a human-readable narrative, but there is now widespread recognition that, underneath, the DMP could have more thematic, machine-actionable richness with added value for all stakeholders: researchers, funders, repository managers, ICT providers, librarians, etc.
@@ -17,7 +18,7 @@ The larger goal is to improve the experience for all involved by exchanging info
 If you are interested to find out more, please refer to [Further Readings](#further-readings).
 
 ## Workflows
-Inspired by community ideas, we developed a set of semi-automated workflows that describe the process of data management planning from the perspective of a researcher at a research institution or university. Please find the description [**here**](http://rda-ws-tpdl2018.sysresearch.org/documents/2018-TPDL-Porto-Handout-BPMN.pdf).
+Inspired by community ideas, we developed a set of semi-automated workflows that describe the process of data management planning from the perspective of a researcher at a research institution or university. The list of processes is not exhaustive, but shows how data management planning can be supported my means of automation and system integration in an institutional context. Please find the description [**here**](http://rda-ws-tpdl2018.sysresearch.org/documents/2018-TPDL-Porto-Handout-BPMN.pdf).
 
 <p align="center">
 	<img src="{{ site.baseurl }}/assets/workflows_overview.png" alt="Workflows Overview"/>
@@ -40,8 +41,11 @@ Based on the [workflows](#workflows) we designed mockups of such a system. The m
 
 ## How can you contribute
 Try out the [mockups](#mockups) and let us know what you think about it.
+- You can [launch the mockups in an interactive (click-through wireframes) manner](https://balsamiq.cloud/syaiodq/pmy3rqs) and add comments directly.
+- Or [send us feedback](https://docs.google.com/forms/d/e/1FAIpQLSf-vBKKPRhoe-E4-U9s3-VHB7w4345iLm72AYA3E-PTTT925Q/viewform?usp=sf_link) via the form.
+- Or you do both.
 
-Thank you!
+Thank you for your help!
 
 ## Further Readings
 1. Simms, S., Jones, S., Mietchen, D., Miksa, T.: Machine-actionable data management plans (maDMPs). Research Ideas and Outcomes 3, e13086 (2017), [doi: 10.3897/rio.3.e13086](https://doi.org/10.3897/rio.3.e13086)
