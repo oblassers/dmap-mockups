@@ -29,11 +29,11 @@ Inspired by community ideas, we developed a set of semi-automated workflows that
 ## Mockups
 Based on the [workflows](#workflows) we designed mockups of such a system. The mockups shall help the stakeholders to better imagine the system and provide valuable feedback that shapes the future development. The mockups are available in the following formats:
 - [Online, interactive Mockups](https://balsamiq.cloud/syaiodq/pmy3rqs) (can be commented)
-- [Mockups as pdf]({{ site.baseurl }}/assets/mockups_researcher.pdf)
+- [Mockups as pdf]({{ site.baseurl }}/assets/mockups.pdf)
 
 <p align="center">
 	<a href="https://balsamiq.cloud/syaiodq/pmy3rqs">
-		<img src="{{ site.baseurl }}/assets/dmap_home.png" width="600" alt="Researcher Mockup"/>
+		<img src="{{ site.baseurl }}/assets/dmap_home.png" width="600" alt="Balsamiq Mockups"/>
 	</a>
 	<br>
 	<em><small> Created with <a href="https://balsamiq.com">Balsamiq</a>.</small></em>
