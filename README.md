@@ -18,7 +18,7 @@ The larger goal is to improve the experience for all involved by exchanging info
 If you are interested to find out more, please refer to [Further Readings](#further-readings).
 
 ## Workflows
-Inspired by community ideas, we developed a set of semi-automated workflows that describe the process of data management planning from the perspective of a researcher at a research institution or university. The list of processes is not exhaustive, but shows how data management planning can be supported my means of automation and system integration in an institutional context. Please find the description [**here**](http://rda-ws-tpdl2018.sysresearch.org/documents/2018-TPDL-Porto-Handout-BPMN.pdf).
+Inspired by community ideas, mainly coined by the [maDMPs white paper by Simms et al.](https://doi.org/10.3897/rio.3.e13086), we developed a set of semi-automated workflows that describe the process of data management planning from the perspective of a researcher at a research institution or university. The list of processes is not exhaustive, but shows how data management planning can be supported my means of automation and system integration in an institutional context. Please find the description [**here**](http://rda-ws-tpdl2018.sysresearch.org/documents/2018-TPDL-Porto-Handout-BPMN.pdf).
 
 <p align="center">
 	<img src="{{ site.baseurl }}/assets/workflows_overview.png" alt="Workflows Overview"/>
