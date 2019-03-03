@@ -54,3 +54,5 @@ Thank you for your help!
 4. Miksa, T., Neish, P., Walk, P.: RDA DMP Common Standards WG (slides) (Nov 2018), [slides](https://www.rd-alliance.org/system/files/documents/2018-RDA-DMP-Plenary-Gaborone.pdf)
 5. Oblasser, S., Miksa, T.: BPMN processes for machine-actionable DMPs (2018), [pdf](http://rda-ws-tpdl2018.sysresearch.org/documents/2018-TPDL-Porto-Handout-BPMN.pdf)
 
+## License
+The content of this webpage, such as the mockups and images are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) by Simon Oblasser.
