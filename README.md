@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/156384764.svg)](https://zenodo.org/badge/latestdoi/156384764)
+
 ## Introduction
 Currently we are designing a system to make research data management planning machine-actionable. This involves the automation of workflows and exchange among information systems and services. If you are interested in machine-actionable DMPs or are a stakeholder of research data management (e.g. researcher), feel welcome to [**try out our mockups**](#mockups) and [**give us feedback**](#how-can-you-contribute). Your help is very appreciated!
 
